@@ -3,8 +3,8 @@
 Super simple boilerplate for MeteorJS 1.4.1, ReactJS and Webpack with HMR support.
 
 ## Install
-1. ```git clone REPO```
-2. ```cd REPO```
+1. ```git clone https://github.com/mfuezesi/meteor-react-webpack-hmr-boilerplate.git```
+2. ```cd meteor-react-webpack-hmr-boilerplate```
 3. ```meteor npm install```
 4. ```meteor```
 

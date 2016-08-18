@@ -4,14 +4,14 @@
   "description": "Super simple boilerplate for MeteorJS, ReactJS and Webpack with HMR support.",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/mfuezesi/fingerzeig-agenda"
+    "url": "https://github.com/mfuezesi/meteor-react-webpack-hmr-boilerplate"
   },
   "author": "Melchior Wom Füzesi <mfuezes@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://bitbucket.org/mfuezesi/fingerzeig-agenda/admin/issues"
+    "url": "https://github.com/mfuezesi/meteor-react-webpack-hmr-boilerplate/admin/issues"
   },
-  "homepage": "https://bitbucket.org/mfuezesi/fingerzeig-agenda",
+  "homepage": "https://github.com/mfuezesi/meteor-react-webpack-hmr-boilerplate",
   "private": "true",
   "main": "server/main.js",
   "browser": "client/main.js",
