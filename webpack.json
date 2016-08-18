@@ -1,0 +1,6 @@
+{
+  "root": "imports",
+  "devServer": {
+    "host": "localhost"
+  }
+}
